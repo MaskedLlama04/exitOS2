@@ -7,7 +7,7 @@ Also enables the participation in the eXiT energy comunity.
 
 For more details about Home Assistant add-ons, refer to the [official documentation](https://developers.home-assistant.io/docs/add-ons).
 
-[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2FMaskedLlama04%2FexitOS2.git)
+[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=[https%3A%2F%2Fgithub.com%2FMaskedLlama04%2FexitOS2.git](https://github.com/MaskedLlama04/exitOS2.git))
 
 ## Add-ons
 
@@ -64,6 +64,7 @@ Notes to developers after forking or using the github template feature:
 - Share your repository on the forums https://community.home-assistant.io/c/projects/9
 - Do awesome stuff!
  -->
+
 
 
 
