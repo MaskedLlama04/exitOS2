@@ -1,6 +1,6 @@
 # ExitOS2 Add-on Repository for Home Assistant
 
-This repository contains a custom Home Assistant add-on, **ExitOS**, designed for managing smart senor networks. The add-on enables the configuration, simulation, and management of various energy assets, such as buildings, consumers, generators, and energy sources.
+This repository contains a custom Home Assistant add-on, **ExitOS2**, designed for managing smart senor networks. The add-on enables the configuration, simulation, and management of various energy assets, such as buildings, consumers, generators, and energy sources.
 Also enables the participation in the eXiT energy comunity.
 
 ## Add-on Documentation
@@ -13,7 +13,7 @@ For more details about Home Assistant add-ons, refer to the [official documentat
 
 This repository contains the following add-ons:
 
-### [ExitOS](./exit_os)
+### [ExitOS2](./exit_os)
 
 ![Supports aarch64 Architecture][aarch64-shield]
 ![Supports amd64 Architecture][amd64-shield]
@@ -64,6 +64,7 @@ Notes to developers after forking or using the github template feature:
 - Share your repository on the forums https://community.home-assistant.io/c/projects/9
 - Do awesome stuff!
  -->
+
 
 
 
