@@ -1,5 +1,5 @@
 import logging
-logger = logging.getLogger("exitOS")
+logger = logging.getLogger("exitOS2")
 
 DEVICE_REGISTRY = {}
 

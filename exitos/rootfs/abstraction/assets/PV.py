@@ -1,6 +1,6 @@
 import logging
 
-logger = logging.getLogger("exitOS")
+logger = logging.getLogger("exitOS2")
 
 class PV:
     def __init__(self, hourly_radiation):

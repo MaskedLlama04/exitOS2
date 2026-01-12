@@ -4,7 +4,7 @@ from datetime import datetime
 from abstraction.DeviceRegistry import register_device
 from abstraction.AbsEnergyStorage import AbsEnergyStorage
 
-logger = logging.getLogger("exitOS")
+logger = logging.getLogger("exitOS2")
 
 
 @register_device("SonnenBattery")

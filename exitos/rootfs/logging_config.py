@@ -3,7 +3,7 @@ import colorlog
 
 def setup_logger(level=logging.DEBUG):
     """Setup logger for Home Assistant add-on."""
-    logger = logging.getLogger("exitOS")
+    logger = logging.getLogger("exitOS2")
 
     #prevent duplicate handlers
     if logger.hasHandlers():

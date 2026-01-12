@@ -9,7 +9,7 @@ import os
 import glob
 import requests
 
-logger = logging.getLogger("exitOS")
+logger = logging.getLogger("exitOS2")
 
 
 class Forecaster:

@@ -15,7 +15,7 @@ import tzlocal
 
 
 
-logger = logging.getLogger("exitOS")
+logger = logging.getLogger("exitOS2")
 
 
 class SqlDB():

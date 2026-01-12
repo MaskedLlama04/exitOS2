@@ -16,7 +16,7 @@ from abstraction.AbsEnergyStorage import AbsEnergyStorage
 from abstraction.DeviceRegistry import DEVICE_REGISTRY, create_device_from_config
 
 
-logger = logging.getLogger("exitOS")
+logger = logging.getLogger("exitOS2")
 
 class OptimalScheduler:
     def __init__(self, database: db):
