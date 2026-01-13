@@ -1,4 +1,5 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
 name: Optimal Scheduler add-on repository
-url: 'https://github.com/llorencburgas/exitOS'
-#maintainer: Narcís Planellas <feinanarcis@gmail.com>
+url: 'https://github.com/MaskedLlama04/exitOS2'
+
+#maintainer: Pol Cañadas <polcanadascosta@gmail.com> & Narcís Planellas <feinanarcis@gmail.com>
